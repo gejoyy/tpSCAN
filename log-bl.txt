@@ -1,0 +1,109 @@
+
+==================
+Mon Mar 06 12:41:38 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+Indexing time (Baseline): 850 s, 14 mins
+Index size: 1.54 MB
+Average T = 4.58, max T = 60.
+
+
+==================
+Tue Mar 07 15:59:28 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+Indexing time (Baseline): 1014 s, 16 mins
+Index size: 1.54 MB
+Average T = 4.58, max T = 60.
+
+
+==================
+Tue Mar 07 16:52:45 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Tue Mar 07 16:53:13 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Tue Mar 07 16:58:04 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Tue Mar 07 16:58:38 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Tue Mar 07 16:59:34 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Tue Mar 07 16:59:48 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Tue Mar 07 17:00:47 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Tue Mar 07 17:01:20 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Wed Mar 08 10:05:05 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Wed Mar 08 10:06:09 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+
+
+==================
+Wed Mar 08 10:38:22 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.

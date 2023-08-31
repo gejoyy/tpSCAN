@@ -1,0 +1,104 @@
+
+
+==================
+Mon Feb 20 20:07:57 2023
+
+Graph path: ./DataSet/test.txt
+n = 14, m = 37, t = 8, effective_m_ = 26.
+Graph size: 0.00 MB.
+Running time (baseline): 0.00 s, 0.00 min
+Index size: 0.00 MB
+Average T = 2.33, max T = 4.
+
+
+==================
+Mon Feb 20 20:08:45 2023
+
+Graph path: ./DataSet/test.txt
+n = 14, m = 37, t = 8, effective_m_ = 26.
+Graph size: 0.00 MB.
+Running time (baseline): 0.00 s, 0.00 min
+Index size: 0.00 MB
+Average T = 2.33, max T = 4.
+
+
+==================
+Mon Mar 06 13:32:33 2023
+
+Graph path: .\dataset\wiki-talk-temporal.txt
+n = 1140149, m = 6100538, t = 6088535, effective_m_ = 2787967.
+Graph size: 69.82 MB.
+
+
+==================
+Mon Mar 06 13:32:59 2023
+
+Graph path: .\dataset\wiki-talk-temporal.txt
+n = 1140149, m = 6100538, t = 6088535, effective_m_ = 2787967.
+Graph size: 69.82 MB.
+
+
+==================
+Mon Mar 06 13:40:49 2023
+
+Graph path: .\dataset\wiki-talk-temporal.txt
+n = 1140149, m = 6100538, t = 6088535, effective_m_ = 2787967.
+Graph size: 69.82 MB.
+Indexing time: 1023 s, 17 mins
+Index size: 6610.37 MB
+Average T = 35.54, max T = 3206.
+
+
+==================
+Mon Mar 06 22:01:58 2023
+
+Graph path: .\dataset\wiki-talk-temporal.txt
+n = 1140149, m = 6100538, t = 6088535, effective_m_ = 2787967.
+Graph size: 69.82 MB.
+Indexing time: 975 s, 16 mins
+Index size: 6610.37 MB
+Average T = 35.54, max T = 3206.
+
+
+==================
+Tue Mar 07 16:17:46 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+Indexing time: 0 s, 0 mins
+Index size: 1.54 MB
+Average T = 4.58, max T = 60.
+
+
+===============================
+Wed Mar 15 12:40:10 2023
+
+Graph path: .\dataset\email-Eu-core-temporal.txt
+n = 1005, m = 332334, t = 207880, effective_m_ = 16064.
+Graph size: 3.80 MB.
+Indexing time: 9 s, 0 mins
+Index size: 42.48 MB
+Average cn = 19.70, average T = 17.57, max T = 1551.
+
+
+===============================
+Wed Mar 15 12:42:36 2023
+
+Graph path: .\dataset\email-Eu-core-temporal.txt
+n = 1005, m = 332334, t = 207880, effective_m_ = 16064.
+Graph size: 3.80 MB.
+Indexing time: 10 s, 0 mins
+Index size: 42.48 MB
+Average cn = 19.70, average T = 17.57, max T = 1551.
+
+
+===============================
+Wed Mar 15 12:44:54 2023
+
+Graph path: .\dataset\CollegeMsg.txt
+n = 1900, m = 59835, t = 58911, effective_m_ = 13838.
+Graph size: 0.68 MB.
+Indexing time: 0 s, 0 mins
+Index size: 1.54 MB
+Average cn = 3.10, average T = 4.58, max T = 60.
